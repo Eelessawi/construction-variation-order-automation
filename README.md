@@ -37,7 +37,23 @@ n8n, Google Gemini, Gmail, Google Drive, Google Sheets, Gotenberg, JavaScript.
 
 ## Screenshots
 
-_Add workflow screenshots and a short demo video here._
+## Workflow overview
+
+![Workflow overview](workflow-flow.png)
+
+## Workflow in n8n
+
+**1. Intake and analysis**
+
+![Intake and analysis](workflow-1-analysis.png)
+
+**2. Approval chain**
+
+![Approval chain](workflow-2-approvals.png)
+
+**3. Final approvals and notice**
+
+![Final approvals](workflow-3-final.png)
 
 ## Results
 
